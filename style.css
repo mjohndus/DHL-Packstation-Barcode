@@ -1,0 +1,53 @@
+body {
+      margin: auto;
+      width: 410px;
+      font-family: Arial;
+}
+
+#BarcodeGenerator {
+    margin: auto;
+    padding: 30px;
+    background: #ccc;
+    border: #a0a0a0 1px solid;
+    border-radius: 3px;
+}
+
+.input-field {
+    padding: 10px;
+    border: #E0E0E0 1px solid;
+    border-radius: 3px;
+    width: 350px;
+    margin: 6px 0px 8px 0px;
+}
+
+.submit-button {
+    background: #446aaa;
+/*    background: #448aaa;*/
+/*    border: #fff 1px solid;*/
+    color: #fff;
+    padding: 10px 20px;
+    border-radius: 2px;
+    margin-top: 8px;
+}
+
+.form-row {
+    margin-bottom: 15px;
+}
+
+.result-heading {
+    padding: 10px 0px 2px 0px;
+    border-bottom: #aaa 1px solid;
+    margin-bottom: 20px;
+}
+
+.lins {
+    border-bottom: #aaa 2px solid;
+}
+
+#validation-info {
+    display: none;
+    padding: 10px 20px;
+    background: #ccc;
+    border: #a0a0a0 1px solid;
+    border-radius: 3px;
+}
