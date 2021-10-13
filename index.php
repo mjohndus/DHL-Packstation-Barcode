@@ -2,7 +2,7 @@
 <head>
 <title>How to Create Barcode Generator using PHP</title>
   <link rel="stylesheet" href="style.css">
-  <script src="http://code.jquery.com/jquery-latest.min.js"></script>
+  <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
 <style>
 
 </style>
