@@ -103,7 +103,7 @@ if (!empty($_POST["generate"])) {
 
 
 //16 Zeichen 3000 + $MRP + 1
-//function a, b, c
+//choose function a, b, or c
 //    $LUN = luhna($MRP);
 //    $LUN = luhnb($MRP);
     $LUN = luhnc($MRP);
